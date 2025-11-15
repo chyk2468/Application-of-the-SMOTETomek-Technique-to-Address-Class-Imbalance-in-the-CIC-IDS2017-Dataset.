@@ -114,6 +114,7 @@ The notebook produces:
 * Accuracy vs. Epoch
 * Loss vs. Epoch
 * Model comparison charts
+<img width="1122" height="732" alt="image" src="https://github.com/user-attachments/assets/c9ec72f9-0881-44e9-a3a5-87bdcb3188bb" />
 
 Using:
 
@@ -135,6 +136,7 @@ The project uses:
 * Confusion Matrix
 
 All metrics are logged and visualized for comparison.
+<img width="489" height="214" alt="image" src="https://github.com/user-attachments/assets/bed5d03c-ef88-4e5a-a597-ca731532fd9f" />
 
 ---
 
