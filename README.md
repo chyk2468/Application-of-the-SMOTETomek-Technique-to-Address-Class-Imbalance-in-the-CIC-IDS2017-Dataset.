@@ -1,5 +1,4 @@
 
-```markdown
 # 🚀 CIC-IDS2017 Intrusion Detection  
 ### Handling Class Imbalance Using SMOTETomek
 
@@ -34,7 +33,7 @@ Because the dataset is highly imbalanced, we apply **SMOTETomek**, a hybrid over
 ## ⚙️ Workflow Overview
 
 ### 1️⃣ Load Dataset
-
+Dataset:- https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset
 ```python
 data = pd.read_csv("combined_all.csv")
 ````
