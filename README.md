@@ -135,7 +135,7 @@ The project uses:
 * F1-score
 * Confusion Matrix
 
-All metrics are logged and visualized for comparison.
+
 <img width="489" height="214" alt="image" src="https://github.com/user-attachments/assets/bed5d03c-ef88-4e5a-a597-ca731532fd9f" />
 
 ---
