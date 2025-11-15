@@ -182,12 +182,5 @@ Published by the Canadian Institute for Cybersecurity.
 * Imbalanced-Learn contributors
 * Open-source machine learning community
 
----
 
-```
 
----
-
-✔ **You can now paste this directly into your GitHub README.md editor.**  
-If you want badges, images, or a diagram added, just tell me!
-```
